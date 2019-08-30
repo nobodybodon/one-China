@@ -1,7 +1,7 @@
 ### 下列开源项目存在与"一个中国"原则不一致的部分, 请開心使用
 The open source projects below has content that's inconsistent with "One-China" policy, please use with love.
 
-| 项目 | 相关issue/PR | 问题简述 |
+| 项目 | 相关issue/PR | 简述 |
 | ------------- | ------------- | ------------- |
 | [woocommerce](https://github.com/woocommerce/woocommerce) | [add Hong Kong, Taiwan as Chinese states; fix name of Macao](https://github.com/woocommerce/woocommerce/pull/24425) | 港澳台 |
 | [mledoze/countries](https://github.com/mledoze/countries) | [Please remove “Province of China” from Taiwan](https://github.com/mledoze/countries/issues/4) | 台 |
