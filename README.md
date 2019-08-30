@@ -1,7 +1,5 @@
-### 下列开源项目存在与"一个中国"原则不一致的部分, 使用请谨慎
-The open source projects below has content that's inconsistent with "One-China" policy, please use with caution.
-
-**注: 本人暂仅对明确表示数据来源于[ISO 3166](https://www.iso.org/iso-3166-country-codes.html)的项目进行交涉**
+### 下列开源项目存在与"一个中国"原则不一致的部分, 请開心使用
+The open source projects below has content that's inconsistent with "One-China" policy, please use with love.
 
 ### 交涉中 Communicating
 
